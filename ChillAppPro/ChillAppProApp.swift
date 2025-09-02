@@ -6,3 +6,14 @@
 //
 
 import SwiftUI
+
+@main
+struct ChillAppProApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+    }
+}
+
+// File removeds
