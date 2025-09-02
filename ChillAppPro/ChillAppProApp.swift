@@ -11,6 +11,7 @@ import SwiftUI
 struct ChillAppProApp: App {
     var body: some Scene {
         WindowGroup {
+            ContentView()
         }
     }
 }
